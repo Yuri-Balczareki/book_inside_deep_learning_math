@@ -1,3 +1,6 @@
+# Ignore Python virtual environments
+venv/
 
-*.png 
+# Ignore image files
+*.png
 *.jpg
